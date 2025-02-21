@@ -6,5 +6,5 @@
 ・You just download this Zipfile from my github account and execute it    
     
 ****// If you find any problem of this web site****     
-・If you fin any problem of this problem you can send email to me
+・If you fin any problem of this program you can send email to me
 
