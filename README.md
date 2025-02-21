@@ -1,0 +1,1 @@
+# Kagoshima_Global-Camp
